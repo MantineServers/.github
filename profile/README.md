@@ -1,12 +1,31 @@
-## Hi there 👋
 
-<!--
+![Logo](https://exoticcg.dev/Rust-banner-1042x512.png)
 
-**Here are some ideas to get you started:**
+<p align="center">
+<h1>Hi, We are Mantine Servers! 👋</h1>
+We provide high performance Game Servers for private 
+</p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## Authors
+
+- [@Exotic](https://www.github.com/exotic-6666)
+- [@Aspect](https://www.github.com/aspect6666)
+
+
+## 🔗 Links
+[![Website](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mantineserv.com/)
+[![Discord](https://img.shields.io/badge/discord-6DA4F9?style=for-the-badge&logo=discord&logoColor=white)](https://discord.mantineserv.com/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.mantineserv.com/)
+
+
+## Roadmap
+
+- Additional browser support
+
+- Add more integrations
+
+
+## Support
+
+For support, email support@mantineserv.com or join our Discord server.
+
