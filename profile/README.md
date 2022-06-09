@@ -1,8 +1,7 @@
 
 ![Logo](https://exoticcg.dev/Rust-banner-1042x512.png)
 
-
-#Hi, We are Mantine Servers! 👋
+## Hi, We are Mantine Servers! 👋
 
 
 ## Authors
