@@ -2,9 +2,7 @@
 ![Logo](https://exoticcg.dev/Rust-banner-1042x512.png)
 
 <p align="center">
-#Hi, We are Mantine Servers! 👋
-
-
+<h1>Hi, We are Mantine Servers! 👋</h1>
 We provide high performance Game Servers for private 
 </p>
 
