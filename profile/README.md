@@ -18,12 +18,15 @@ We provide high performance Game Servers for private
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.mantineserv.com/)
 
 
-## Roadmap
+## Goals
 
-- Additional browser support
+- Hit 10 player count ❌ 
 
-- Add more integrations
+- Hit 50 player count ❌
 
+- Hit 100 player count ❌
+
+- Hit 200 player count ❌
 
 ## Support
 
