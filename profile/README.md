@@ -11,7 +11,7 @@
 
 
 ## 🔗 Links
-[![Website](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mantineserv.com/)
+[![Website](https://img.shields.io/badge/website-000?style=for-the-badge&logo=website&logoColor=white)](https://mantineserv.com/)
 [![Discord](https://img.shields.io/badge/discord-6DA4F9?style=for-the-badge&logo=discord&logoColor=white)](https://discord.mantineserv.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.mantineserv.com/)
 
